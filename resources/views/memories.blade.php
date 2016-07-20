@@ -1,7 +1,6 @@
 @extends('layouts.index')
 
 @section('memories')
-  嘿嘿嘿
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
     <ol class="carousel-indicators">

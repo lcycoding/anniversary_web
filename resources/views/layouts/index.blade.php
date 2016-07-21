@@ -136,7 +136,7 @@
 
     <!--section1 with parallax-->
     <div id="memories" class="container">
-      <div style="color: #777;background-color:white;text-align:center; padding: 60px 80px ;text-align: justify;">
+      <div style="color: #777;background-color:white;text-align:center;  text-align: justify;">
         <h3 style="text-align:center;">We've been together for 4 years！</h3>
         <p style="text-align:center;">
           Lots of things happen in our 4th year, let's take a look
@@ -234,7 +234,7 @@
     </div>
 
     <div id="fails" class="container-fluid">
-      <div style="color: #777; background-color:white; text-align:center; padding: 60px 80px; text-align: justify; ">
+      <div style="color: #777; background-color:white; text-align:center;  text-align: justify; ">
         <h3 style="text-align:center;">It's been a great time with you <3 </h3>
         <p style="text-align:center;">
           Enough touching, we should see those 'special' moments in our life!
@@ -323,7 +323,7 @@
     </div>
 
     <div id="sons" class="container-fluid">
-      <div style="color: #777; background-color:white; text-align:center; padding: 60px 80px; text-align: justify; ">
+      <div style="color: #777; background-color:white; text-align:center;  text-align: justify; ">
         <h3 style="text-align:center;"> Hope you won't be angry :P </h3>
         <p style="text-align:center;">
           They enriched our life so much :)
